@@ -9,7 +9,7 @@
 	"dependencies": {
 		"commander": "^2.20.0",
 		"css": "^2.2.4",
-		"got": "^9.6.0",
+		"got": "^11.8.5",
 		"jsdom": "^15.1.1",
 		"nunjucks": "^3.2.0",
 		"ora": "^3.4.0",
